@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <AssemblyName>mapsizetweaks</AssemblyName>
+    <RootNamespace>Calloatti.MapSizeTweaks</RootNamespace>
+  </PropertyGroup>
+
+  <Import Project="CommonModSettings.props" />
+
+</Project>

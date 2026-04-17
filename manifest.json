@@ -1,0 +1,14 @@
+{
+  "Name": "Map Size Tweaks",
+  "Version": "1.0.0",
+  "Id": "Calloatti.MapSizeTweaks",
+  "MinimumGameVersion": "1.0.12.5",
+  "Description": "Replaces the strict 256-tile dimension limit with a 65536 total tile area limit, allowing you to create and play on extreme map shapes like 128x512.",
+  "RequiredMods": [
+    {
+      "Id": "Harmony",
+      "MinVersion": "2.4.1"
+    }
+  ],
+  "OptionalMods": []
+}
