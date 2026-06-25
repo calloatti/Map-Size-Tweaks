@@ -1,2 +1,6 @@
+1.0.1
+Added a new custom dialog box that prompts you when loading a save game, 
+allowing you to easily view, change, or safely revert the map maximum terrain and building heights before launching.
+
 1.0.0
 Initial release
