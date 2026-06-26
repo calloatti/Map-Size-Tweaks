@@ -1,3 +1,5 @@
+1.0.2
+Moved custom dialog box to a button on main menu
 1.0.1
 Added a new custom dialog box that prompts you when loading a save game, 
 allowing you to easily view, change, or safely revert the map maximum terrain and building heights before launching.
